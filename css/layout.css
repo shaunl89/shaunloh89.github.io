@@ -393,7 +393,7 @@ fieldset[disabled] .btn-theme {
   position: relative;
   z-index: 1;
   text-align: center;
-  background: url(../img/img_0782.jpg) no-repeat;
+  background: url('../img/IMG_0782.JPG') no-repeat;
   background-size: cover;
   background-position: center center;
   padding: 250px 0 200px;
